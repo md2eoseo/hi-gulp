@@ -1,0 +1,18 @@
+{
+  "name": "hi-gulp",
+  "version": "1.0.0",
+  "description": "Learn gulp by building a development environment.",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/md2eoseo/hi-gulp.git"
+  },
+  "author": "md2eoseo <md2eoseo@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/md2eoseo/hi-gulp/issues"
+  },
+  "homepage": "https://github.com/md2eoseo/hi-gulp#readme"
+}
