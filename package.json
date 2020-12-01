@@ -16,19 +16,24 @@
     "url": "https://github.com/md2eoseo/hi-gulp/issues"
   },
   "homepage": "https://github.com/md2eoseo/hi-gulp#readme",
-  "browserslist": ["last 2 versions"],
+  "browserslist": [
+    "last 2 versions"
+  ],
   "devDependencies": {
     "@babel/core": "^7.12.9",
     "@babel/preset-env": "^7.12.7",
     "@babel/register": "^7.12.1",
+    "babelify": "^10.0.0",
     "del": "^6.0.0",
     "gulp": "^4.0.2",
     "gulp-autoprefixer": "^7.0.1",
+    "gulp-bro": "^2.0.0",
     "gulp-csso": "^4.0.1",
     "gulp-image": "^6.2.1",
     "gulp-pug": "^4.0.1",
     "gulp-sass": "^4.1.0",
     "gulp-webserver": "^0.9.1",
-    "node-sass": "^5.0.0"
+    "node-sass": "^5.0.0",
+    "uglifyify": "^5.0.2"
   }
 }
