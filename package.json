@@ -17,9 +17,13 @@
   },
   "homepage": "https://github.com/md2eoseo/hi-gulp#readme",
   "devDependencies": {
-    "gulp": "^4.0.2",
     "@babel/core": "^7.12.9",
     "@babel/preset-env": "^7.12.7",
-    "@babel/register": "^7.12.1"
+    "@babel/register": "^7.12.1",
+    "gulp": "^4.0.2"
+  },
+  "dependencies": {
+    "del": "^6.0.0",
+    "gulp-pug": "^4.0.1"
   }
 }
